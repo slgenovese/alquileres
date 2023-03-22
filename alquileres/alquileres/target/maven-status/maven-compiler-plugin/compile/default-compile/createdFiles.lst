@@ -1,0 +1,5 @@
+com\inmobiliaria\alquileres\Controller\AlquileresController.class
+model\Inquilino.class
+model\Propiedad.class
+dto\PropiedadDTO.class
+com\inmobiliaria\alquileres\AlquileresApplication.class
